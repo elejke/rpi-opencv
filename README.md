@@ -7,7 +7,7 @@ thatsarr/alpine_armv7l-opencv
 ```
 
 ### Image contains:
-- alpine linux () as base 
+- alpine linux (arm32v7/alpine:3.10.2) as base 
 - python3 (3.7.4)
 - openCV (4.1.1)
 
